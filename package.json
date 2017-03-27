@@ -109,7 +109,7 @@
     "steal-stache": "^3.0.5",
     "steal-tools": "^0.16.8",
     "testee": "^0.3.0",
-    "wd": "^1.0.0"
+    "wd": "^1.2.0"
   },
   "demos": [
     "http://canjs.us/#examples",
